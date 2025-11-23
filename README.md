@@ -11,3 +11,5 @@ You can access this through: [Project_1-Dashboard](Project_1-Dashboard)
 ## Salary Analysis
 This data jobs salary analysis was created to explore the optimal jobs and skills in the data job market.
 You can access this through: [Project_2-Analysis](Project_2-Analysis)
+
+![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
