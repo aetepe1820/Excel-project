@@ -28,9 +28,9 @@ The dataset used for this project contains real-world data science job informati
 
 ## Dashboard Build
 
-### 📉 Charts
+###  Charts
 
-#### 📊 Data Job Salaries - Bar Chart
+####  Data Job Salaries - Bar Chart
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
@@ -39,7 +39,7 @@ The dataset used for this project contains real-world data science job informati
 - **Data Organization:** Job titles have been sorted by descending salary to improve readability.
 - **Insights:** Quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-#### 🗺️ Country Median Salaries - Map Chart
+####  Country Median Salaries - Map Chart
 
 ![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
@@ -49,9 +49,9 @@ The dataset used for this project contains real-world data science job informati
 - **Data Organization:** Improved readability and understanding of geographic salary trends.
 - **Insights:** Enabled quick grasp of global salary disparities and highlights high/low salary regions.
 
-### 🧮 Formulas and Functions
+###  Formulas and Functions
 
-#### 💰 Median Salary by Job Titles
+#### Median Salary by Job Titles
 
 ```
 =MEDIAN(
@@ -97,9 +97,9 @@ The purpose of the formula is to return a list of the unique job schedule types,
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
-### ❎ Data Validation
+### Data Validation
 
-#### 🔍 Filtered List
+#### Filtered List
 
 - **Enhanced Data Validation:** Implemented the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` in the Data tab ensured:
     -  User input is restricted to predefined and validated schedule types
